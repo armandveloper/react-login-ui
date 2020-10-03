@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-login-ui/static/css/main.fc6cf6a6.chunk.css",
+    "main.js": "/react-login-ui/static/js/main.e14d6c5f.chunk.js",
+    "main.js.map": "/react-login-ui/static/js/main.e14d6c5f.chunk.js.map",
+    "runtime-main.js": "/react-login-ui/static/js/runtime-main.14943fcc.js",
+    "runtime-main.js.map": "/react-login-ui/static/js/runtime-main.14943fcc.js.map",
+    "static/js/2.5285333d.chunk.js": "/react-login-ui/static/js/2.5285333d.chunk.js",
+    "static/js/2.5285333d.chunk.js.map": "/react-login-ui/static/js/2.5285333d.chunk.js.map",
+    "index.html": "/react-login-ui/index.html",
+    "precache-manifest.23f66a30daa387241a7b524bf10bcf52.js": "/react-login-ui/precache-manifest.23f66a30daa387241a7b524bf10bcf52.js",
+    "service-worker.js": "/react-login-ui/service-worker.js",
+    "static/css/main.fc6cf6a6.chunk.css.map": "/react-login-ui/static/css/main.fc6cf6a6.chunk.css.map",
+    "static/js/2.5285333d.chunk.js.LICENSE.txt": "/react-login-ui/static/js/2.5285333d.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-login-ui/static/media/material-error-outline.788bf9c2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14943fcc.js",
+    "static/js/2.5285333d.chunk.js",
+    "static/css/main.fc6cf6a6.chunk.css",
+    "static/js/main.e14d6c5f.chunk.js"
+  ]
+}
